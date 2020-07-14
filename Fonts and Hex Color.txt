@@ -1,0 +1,9 @@
+
+Fonts:
+  - Company Name and Slogan : Venus Rising Rg
+  - Business Card Contents : Gill Sans MT
+
+Hex Colors :
+  - #00849E
+  - #000000
+  - #FFFFFF
